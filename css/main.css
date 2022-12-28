@@ -1,7 +1,27 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.title
+ul {
+  list-style: none;
+}
+
+.container {
+  width: 1236px;
+}
+
+.title-1 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 37px;
+  line-height: 54px;
+  padding: 122px 0 0;
+
+  text-align: center;
+  letter-spacing: -0.4625px;
+
+  color: #373737;
+}
