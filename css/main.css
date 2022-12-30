@@ -25,3 +25,16 @@ ul {
 
   color: #373737;
 }
+
+.text-1 {
+  
+  height: 80px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 38px;
+
+  text-align: center;
+
+  color: #7d7d7d;
+}
