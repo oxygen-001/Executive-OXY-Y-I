@@ -28,17 +28,25 @@ ul {
 }
 
 .text-1 {
+<<<<<<< HEAD
+=======
+  
+>>>>>>> c0f2ea8b573fe909754a4bed1cbfaf20ec6d0809
   height: 80px;
   font-style: normal;
   font-weight: 500;
   font-size: 22px;
   line-height: 38px;
+<<<<<<< HEAD
   margin-bottom: 104px;
+=======
+>>>>>>> c0f2ea8b573fe909754a4bed1cbfaf20ec6d0809
 
   text-align: center;
 
   color: #7d7d7d;
 }
+<<<<<<< HEAD
 
 .cards {
   display: flex;
@@ -350,3 +358,5 @@ image-2 {
   color: #717cff;
 }
 
+=======
+>>>>>>> c0f2ea8b573fe909754a4bed1cbfaf20ec6d0809
