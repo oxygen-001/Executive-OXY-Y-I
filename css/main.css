@@ -10,9 +10,10 @@ ul {
 
 .container {
   width: 1236px;
+  margin: 0 auto;
 }
 
-.title-1 {
+/* .title-1 {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
@@ -37,4 +38,108 @@ ul {
   text-align: center;
 
   color: #7d7d7d;
+} */
+
+
+nav{
+  display: flex;
+  justify-content:space-between;
+  height: 70px;
+  align-items: center;
+ 
+}
+
+.first-ul{
+  display: flex;
+  gap: 40px;
+  align-items: center;
+  font-size: 17px;
+  color: #4a4a4a;
+}
+
+
+.nav-a{
+  border: 2px solid #717CFF;
+  border-radius: 11px;
+  text-decoration: none;
+  width: 111px;
+  height: 42px;
+  text-align: center;
+  padding: 10px;
+  font-size: 17px;
+  color: #4a4a4a;
+}
+
+
+.first-li:hover{
+  border-bottom: 4px solid #717cff;
+  border-radius: 4px;
+}
+
+
+.first-span{
+  color: #717CFF;
+}
+
+h1{
+  font-size: 56px;
+
+}
+
+.first-left{
+  width: 632px;
+  /* padding: 20px; */
+}
+
+.first-p{
+  color: #7d7d7d;
+  font-size: 22px;
+  margin: 40px 0;
+}
+
+.first-button{
+  width: 262px;
+  height: 64px;
+  border-radius: 11px;
+  border: none;
+  color: white;
+  background-color: #717CFF;
+  font-size: 22px;
+}
+
+.small-div{
+  position: relative;
+}
+
+.strelka-img{
+  position: absolute;
+  top: 24px;
+  left: 220px;
+}
+
+.logos-div{
+  display: flex;
+
+  height: 40px;
+  justify-content: space-around;
+  width: 200px;
+  margin-top: 180px;
+  align-items: center;
+
+}
+
+.first-section{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px;
+}
+
+
+.first-right{
+  position: relative;
+}
+
+.student{
+  position: absolute;
+  bottom: 0;
 }
